@@ -42,16 +42,20 @@ do
 		file_name=$(basename "$entry" | cut -d. -f1)
 		file_ext=$(basename "$entry" | cut -d. -f2)
 		if [ -f "$destination_dir/$file" ]; then
-			highest_number=$(ls "$destination_dir" | grep "$file_name" | sed 's/[^0-9]*//g' | sort -nr | head -1)
-			new_number=$((highest_number + 1))
-			new_file_name="$file_name copy $new_number.$file_ext"
-			echo -e "Найден дубликат! ${GREEN}${entry}${NC} -> ${GREEN}${new_file_name}${NC}"
+			new_file_name=${entry//\//-}
+			echo -e "Найден дубликат! ${GREEN}${file}${NC} -> ${GREEN}${new_file_name}${NC}"
+			if [ -f "$destination_dir/$new_file_name" ]; then
+				echo -e "ERROR ${RED}${entry}${NC} -> ${RED}${new_file_name}${NC}"
+				echo $(ls "$destination_dir" | grep "$file_name")
+			fi
+
+			cp "$entry" "$destination_dir/$new_file_name"   
 		else
-			new_file_name="$file"
+			cp "$entry" "$destination_dir"
 		fi
-		cp "$entry" "$destination_dir/$new_file_name"   
-		# echo -e "\rКопирую все файлы... ${GREEN} ${sp:i++%${#sp}:1} ${NC}"
-	#    cp "$entry" "$destination_dir"
 	fi
 done
 echo -e "${GREEN}Готово!${NC}"
+
+echo -e "Кол-во исходных файлов $(find $source_dir -type f| wc -l)"
+echo -e "Кол-во файлов в копии $(find $destination_dir -type f| wc -l)"
