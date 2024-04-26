@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created with PhotoDemon (https://photodemon.org) -->
+<svg>
+	<linearGradient id="Star sword" gradientUnits="objectBoundingBox" spreadMethod="pad" >
+		<stop stop-color="#000000" stop-opacity="1" offset="0.3" />
+		<stop stop-color="#054164" stop-opacity="1" offset="0.37" />
+		<stop stop-color="#64c8e6" stop-opacity="1" offset="0.39999" />
+		<stop stop-color="#c8f0fa" stop-opacity="1" offset="0.4" />
+		<stop stop-color="#ffffff" stop-opacity="1" offset="0.45" />
+		<stop stop-color="#ffffff" stop-opacity="1" offset="0.55" />
+		<stop stop-color="#c8f0fa" stop-opacity="1" offset="0.6" />
+		<stop stop-color="#64c8e6" stop-opacity="1" offset="0.6001" />
+		<stop stop-color="#054164" stop-opacity="1" offset="0.63" />
+		<stop stop-color="#000000" stop-opacity="1" offset="0.7" />
+	</linearGradient>
+</svg>

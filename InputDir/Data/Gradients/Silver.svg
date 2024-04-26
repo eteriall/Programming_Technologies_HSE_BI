@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created with PhotoDemon (https://photodemon.org) -->
+<svg>
+	<linearGradient id="Silver" gradientUnits="objectBoundingBox" spreadMethod="pad" >
+		<stop stop-color="#505053" stop-opacity="1" offset="0" />
+		<stop stop-color="#646469" stop-opacity="1" offset="0.157178" />
+		<stop stop-color="#969691" stop-opacity="1" offset="0.314356" />
+		<stop stop-color="#afafa5" stop-opacity="1" offset="0.438119" />
+		<stop stop-color="#b4afaa" stop-opacity="1" offset="0.518564" />
+		<stop stop-color="#cfccd2" stop-opacity="1" offset="0.601485" />
+		<stop stop-color="#b4b4aa" stop-opacity="1" offset="0.737624" />
+		<stop stop-color="#55555a" stop-opacity="1" offset="1" />
+	</linearGradient>
+</svg>

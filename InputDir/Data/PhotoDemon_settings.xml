@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pdData>
+	
+	<pdDataType>User Preferences</pdDataType>
+	
+	<!-- This preferences file was created on 19-фев-2024 by version 9.0.0 of the software. -->
+	
+	<Assets>
+		<ExtractedGradients>True</ExtractedGradients>
+		<ExtractedColorProfiles>True</ExtractedColorProfiles>
+		<Extracted3DLUTs>True</Extracted3DLUTs>
+	</Assets>
+	
+	<BatchProcess>
+		<InputFolder>C:\Users\z\Pictures\</InputFolder>
+		<ListFolder>C:\Users\z\Pictures\</ListFolder>
+		<OutputFolder>C:\Users\z\Pictures\</OutputFolder>
+	</BatchProcess>
+	
+	<ColorManagement>
+		<DisplayCMMode>0</DisplayCMMode>
+		<DisplayBPC>True</DisplayBPC>
+		<DisplayRenderingIntent>0</DisplayRenderingIntent>
+	</ColorManagement>
+	
+	<Core>
+		<DisplayIDEWarning>True</DisplayIDEWarning>
+		<GenerateDebugLogs>0</GenerateDebugLogs>
+		<HasGitHubAccount></HasGitHubAccount>
+		<LastOpenFilter>1</LastOpenFilter>
+		<LastPreferencesPage>0</LastPreferencesPage>
+		<LastSaveFilter>-1</LastSaveFilter>
+		<LastWindowState>0</LastWindowState>
+		<LastWindowLeft>202</LastWindowLeft>
+		<LastWindowTop>79</LastWindowTop>
+		<LastWindowWidth>2285</LastWindowWidth>
+		<LastWindowHeight>1432</LastWindowHeight>
+		<SessionsSinceLastCrash>-1</SessionsSinceLastCrash>
+		<UniqueAppID>{60A0B65C-B78C-46FD-8F5F-41FEBEA01E79}</UniqueAppID>
+		<ShowToolboxCategoryLabels>True</ShowToolboxCategoryLabels>
+		<ToolboxButtonSize>0</ToolboxButtonSize>
+		<ImageTabstripVisibility>1</ImageTabstripVisibility>
+		<ImageTabstripAlignment>1</ImageTabstripAlignment>
+		<ImageTabstripSize>141</ImageTabstripSize>
+		<SessionID>{367799DB-D63D-4E3E-B352-4D3496576DAD}</SessionID>
+		<LastRunVersion>9.0.0</LastRunVersion>
+	</Core>
+	
+	<Dialogs>
+	</Dialogs>
+	
+	<Interface>
+		<MRUCaptionLength>0</MRUCaptionLength>
+		<RecentFilesLimit>10</RecentFilesLimit>
+		<WindowCaptionLength>0</WindowCaptionLength>
+		<CanvasColor>#a0a0a0</CanvasColor>
+		<WelcomeScreenRecentFiles>False</WelcomeScreenRecentFiles>
+	</Interface>
+	
+	<Language>
+		<CurrentLanguageFile></CurrentLanguageFile>
+	</Language>
+	
+	<Loading>
+		<ExifAutoRotate>True</ExifAutoRotate>
+		<MetadataEstimateJPEG>True</MetadataEstimateJPEG>
+		<MetadataExtractBinary>False</MetadataExtractBinary>
+		<MetadataExtractUnknown>False</MetadataExtractUnknown>
+		<MetadataHideDuplicates>True</MetadataHideDuplicates>
+		<ToneMappingPrompt>True</ToneMappingPrompt>
+		<RestoreAfterReboot>False</RestoreAfterReboot>
+		<SingleInstance>False</SingleInstance>
+	</Loading>
+	
+	<Paths>
+		<8bf>\\Mac\Home\Downloads\PhotoDemon\Data\8bfPlugins\</8bf>
+		<Macro>\\Mac\Home\Downloads\PhotoDemon\Data\Macros\</Macro>
+		<OpenImage>C:\Users\z\Desktop\</OpenImage>
+		<Palettes>\\Mac\Home\Downloads\PhotoDemon\Data\Palettes\</Palettes>
+		<SaveImage>C:\Users\z\Pictures\</SaveImage>
+		<Selections>\\Mac\Home\Downloads\PhotoDemon\Data\Selections\</Selections>
+		<TempFiles>C:\Users\z\AppData\Local\Temp\</TempFiles>
+		<ColorProfiles>\\Mac\Home\Downloads\PhotoDemon\Data\ColorProfiles\</ColorProfiles>
+		<Gradients>\\Mac\Home\Downloads\PhotoDemon\Data\Gradients\</Gradients>
+		<LUTs>\\Mac\Home\Downloads\PhotoDemon\Data\3DLUTs\</LUTs>
+	</Paths>
+	
+	<Performance>
+		<InterfaceDecorationPerformance>1</InterfaceDecorationPerformance>
+		<ThumbnailPerformance>1</ThumbnailPerformance>
+		<ViewportRenderPerformance>1</ViewportRenderPerformance>
+		<UndoCompression>1</UndoCompression>
+	</Performance>
+	
+	<Plugins>
+		<ForceExifToolDisable>False</ForceExifToolDisable>
+		<ForceEZTwainDisable>False</ForceEZTwainDisable>
+		<ForceFreeImageDisable>False</ForceFreeImageDisable>
+		<ForceLibDeflateDisable>False</ForceLibDeflateDisable>
+		<ForceLittleCMSDisable>False</ForceLittleCMSDisable>
+		<ForceLz4Disable>False</ForceLz4Disable>
+		<ForcepspiHostDisable>False</ForcepspiHostDisable>
+		<ForceZstdDisable>False</ForceZstdDisable>
+		<LastPluginPreferencesPage>0</LastPluginPreferencesPage>
+		<ForceCharLSDisable>False</ForceCharLSDisable>
+		<ForcelibwebpDisable>False</ForcelibwebpDisable>
+		<ForceresvgDisable>False</ForceresvgDisable>
+	</Plugins>
+	
+	<Saving>
+		<ConfirmClosingUnsaved>True</ConfirmClosingUnsaved>
+		<HasSavedAFile>False</HasSavedAFile>
+		<MetadataListPD>True</MetadataListPD>
+		<OverwriteOrCopy>0</OverwriteOrCopy>
+		<SuggestedFormat>0</SuggestedFormat>
+		<UseLastFolder>False</UseLastFolder>
+	</Saving>
+	
+	<Themes>
+		<CurrentTheme>Dark</CurrentTheme>
+		<CurrentAccent>Blue</CurrentAccent>
+		<HasSeenThemeDialog>True</HasSeenThemeDialog>
+		<MonochromeIcons>False</MonochromeIcons>
+	</Themes>
+	
+	<Toolbox>
+		<LeftToolboxVisible>True</LeftToolboxVisible>
+		<LeftToolboxSize>326</LeftToolboxSize>
+		<LastSessionDPI>2</LastSessionDPI>
+		<BottomToolboxVisible>True</BottomToolboxVisible>
+		<BottomToolboxSize>118</BottomToolboxSize>
+		<RightToolboxVisible>True</RightToolboxVisible>
+		<RightToolboxSize>720</RightToolboxSize>
+		<RightPanelSize1>48</RightPanelSize1>
+		<RightPanelSize2>200</RightPanelSize2>
+		<RightPanelSize3>200</RightPanelSize3>
+		<RightPanelSize4>776</RightPanelSize4>
+		<RulersVisible>True</RulersVisible>
+		<StatusBarVisible>True</StatusBarVisible>
+	</Toolbox>
+	
+	<Tools>
+		<ClearSelectionAfterCrop>True</ClearSelectionAfterCrop>
+		<HighResMouseInput>True</HighResMouseInput>
+		<SelectionAnimateOutline>True</SelectionAnimateOutline>
+		<SelectionInteriorFillMode>1</SelectionInteriorFillMode>
+		<SelectionInteriorFillColor>#6EE6FF</SelectionInteriorFillColor>
+		<SelectionInteriorFillOpacity>50</SelectionInteriorFillOpacity>
+		<SelectionExteriorFillMode>2</SelectionExteriorFillMode>
+		<SelectionExteriorFillColor>#FF3C50</SelectionExteriorFillColor>
+		<SelectionExteriorFillOpacity>50</SelectionExteriorFillOpacity>
+		<LastUsedTool>0</LastUsedTool>
+		<ColorPanelStyle>0</ColorPanelStyle>
+		<ColorPanelPaletteFile></ColorPanelPaletteFile>
+	</Tools>
+	
+	<Transparency>
+		<AlphaCheckMode>0</AlphaCheckMode>
+		<AlphaCheckOne>16777215</AlphaCheckOne>
+		<AlphaCheckTwo>13421772</AlphaCheckTwo>
+		<AlphaCheckSize>1</AlphaCheckSize>
+	</Transparency>
+	
+	<Updates>
+		<LastUpdateCheck></LastUpdateCheck>
+		<UpdateFrequency>1</UpdateFrequency>
+		<UpdateTrack>0</UpdateTrack>
+		<UpdateNotifications>True</UpdateNotifications>
+	</Updates>
+	
+</pdData>

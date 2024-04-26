@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created with PhotoDemon (https://photodemon.org) -->
+<svg>
+	<linearGradient id="Rainbow" gradientUnits="objectBoundingBox" spreadMethod="pad" >
+		<stop stop-color="#fd4244" stop-opacity="1" offset="0" />
+		<stop stop-color="#f19237" stop-opacity="1" offset="0.2" />
+		<stop stop-color="#f4f05a" stop-opacity="1" offset="0.4" />
+		<stop stop-color="#5ef06d" stop-opacity="1" offset="0.6" />
+		<stop stop-color="#4276d9" stop-opacity="1" offset="0.8" />
+		<stop stop-color="#8a06ee" stop-opacity="1" offset="1" />
+	</linearGradient>
+</svg>

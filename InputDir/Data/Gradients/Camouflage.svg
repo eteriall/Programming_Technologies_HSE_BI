@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created with PhotoDemon (https://photodemon.org) -->
+<svg>
+	<linearGradient id="Camouflage" gradientUnits="objectBoundingBox" spreadMethod="pad" >
+		<stop stop-color="#beaf82" stop-opacity="1" offset="0" />
+		<stop stop-color="#baab7f" stop-opacity="1" offset="0.24999" />
+		<stop stop-color="#322823" stop-opacity="1" offset="0.25" />
+		<stop stop-color="#332a24" stop-opacity="1" offset="0.49999" />
+		<stop stop-color="#4b6e50" stop-opacity="1" offset="0.5" />
+		<stop stop-color="#4c6d4f" stop-opacity="1" offset="0.74999" />
+		<stop stop-color="#6e5537" stop-opacity="1" offset="0.75" />
+		<stop stop-color="#6e5537" stop-opacity="1" offset="0.996287" />
+	</linearGradient>
+</svg>
