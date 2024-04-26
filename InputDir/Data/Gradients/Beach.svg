@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created with PhotoDemon (https://photodemon.org) -->
+<svg>
+	<linearGradient id="Beach" gradientUnits="objectBoundingBox" spreadMethod="pad" >
+		<stop stop-color="#fad2a0" stop-opacity="1" offset="0" />
+		<stop stop-color="#ffebd2" stop-opacity="1" offset="0.090347" />
+		<stop stop-color="#faebdc" stop-opacity="1" offset="0.181931" />
+		<stop stop-color="#f0e6dc" stop-opacity="1" offset="0.261139" />
+		<stop stop-color="#b4cdbe" stop-opacity="1" offset="0.325495" />
+		<stop stop-color="#50beb9" stop-opacity="1" offset="0.438119" />
+		<stop stop-color="#05aaaa" stop-opacity="1" offset="0.5" />
+		<stop stop-color="#2f85af" stop-opacity="1" offset="0.657178" />
+		<stop stop-color="#146496" stop-opacity="1" offset="0.774753" />
+		<stop stop-color="#87bef0" stop-opacity="1" offset="0.7748" />
+		<stop stop-color="#4b9be6" stop-opacity="1" offset="0.915842" />
+		<stop stop-color="#0073e1" stop-opacity="1" offset="1" />
+	</linearGradient>
+</svg>

@@ -31,30 +31,28 @@ if [ -d "$entry" ];then
 done
 
 echo -e "\nПолучаю список ВСЕХ файлов, находящихся ${GREEN}в исходной директории...${NC}"
-all=$(find "$source_dir" -type f)
+all=$()
 i=1
 sp="/-\|"
 
-for entry in $all
-do
-	if [ -f "$entry" ];then
-		file=$(basename "$entry")
-		file_name=$(basename "$entry" | cut -d. -f1)
-		file_ext=$(basename "$entry" | cut -d. -f2)
-		if [ -f "$destination_dir/$file" ]; then
-			new_file_name=${entry//\//-}
-			echo -e "Найден дубликат! ${GREEN}${file}${NC} -> ${GREEN}${new_file_name}${NC}"
-			if [ -f "$destination_dir/$new_file_name" ]; then
-				echo -e "ERROR ${RED}${entry}${NC} -> ${RED}${new_file_name}${NC}"
-				echo $(ls "$destination_dir" | grep "$file_name")
-			fi
 
-			cp "$entry" "$destination_dir/$new_file_name"   
-		else
-			cp "$entry" "$destination_dir"
+find "$source_dir" -type f | while read -r entry; do
+	file=$(basename "$entry")
+	file_name=$(basename "$entry" | cut -d. -f1)
+	file_ext=$(basename "$entry" | cut -d. -f2)
+	if [ -f "$destination_dir/$file" ]; then
+		new_file_name=${entry//\//-}
+		echo -e "Найден дубликат! ${GREEN}${file}${NC} -> ${GREEN}${new_file_name}${NC}"
+		if [ -f "$destination_dir/$new_file_name" ]; then
+			echo -e "ERROR ${RED}${entry}${NC} -> ${RED}${new_file_name}${NC}"
+			echo $(ls "$destination_dir" | grep "$file_name")
 		fi
+		cp "$entry" "$destination_dir/$new_file_name"   
+	else
+		cp "$entry" "$destination_dir"
 	fi
 done
+
 echo -e "${GREEN}Готово!${NC}"
 
 echo -e "Кол-во исходных файлов $(find $source_dir -type f| wc -l)"

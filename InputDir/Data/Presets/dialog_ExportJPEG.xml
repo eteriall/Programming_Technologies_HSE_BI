@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pdData>
+	
+	<pdDataType>Tool preset</pdDataType>
+	
+	<toolName>dialog_ExportJPEG</toolName>
+	<toolDescription>JPEG options</toolDescription>
+	
+	<!-- Everything past this point is tool preset data. -->
+	
+	<presetEntry id="last-used_settings">
+		<version>1</version><fullPresetName>last-used settings</fullPresetName><btsCategory>0</btsCategory><btsCompression>1</btsCompression><cboSaveQuality>1</cboSaveQuality><sltQuality>92</sltQuality><clsBackground>16777215</clsBackground><btsSubsampling>1</btsSubsampling><btsDepth>0</btsDepth><mtdManager>&lt;version&gt;1&lt;/version&gt;&lt;MetadataExportAllowed&gt;True&lt;/MetadataExportAllowed&gt;&lt;MetadataAnonymize&gt;False&lt;/MetadataAnonymize&gt;&lt;MetadataEmbedThumbnail&gt;False&lt;/MetadataEmbedThumbnail&gt;&lt;MetadataTempFilename&gt;C:\Users\z\AppData\Local\Temp\PD_34EB3831.tmp&lt;/MetadataTempFilename&gt;</mtdManager>
+	</presetEntry>
+	
+</pdData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created with PhotoDemon (https://photodemon.org) -->
+<svg>
+	<linearGradient id="Wood" gradientUnits="objectBoundingBox" spreadMethod="pad" >
+		<stop stop-color="#a56e46" stop-opacity="1" offset="0.001238" />
+		<stop stop-color="#93603d" stop-opacity="1" offset="0.069307" />
+		<stop stop-color="#965d35" stop-opacity="1" offset="0.074257" />
+		<stop stop-color="#915f3c" stop-opacity="1" offset="0.148515" />
+		<stop stop-color="#cba187" stop-opacity="1" offset="0.155941" />
+		<stop stop-color="#a97558" stop-opacity="1" offset="0.215347" />
+		<stop stop-color="#d7af96" stop-opacity="1" offset="0.230198" />
+		<stop stop-color="#9b6446" stop-opacity="1" offset="0.24505" />
+		<stop stop-color="#503c32" stop-opacity="1" offset="0.305693" />
+		<stop stop-color="#744c3a" stop-opacity="1" offset="0.313119" />
+		<stop stop-color="#beafaa" stop-opacity="1" offset="0.444307" />
+		<stop stop-color="#cdaa91" stop-opacity="1" offset="0.456683" />
+		<stop stop-color="#b48c69" stop-opacity="1" offset="0.466584" />
+		<stop stop-color="#694132" stop-opacity="1" offset="0.564356" />
+		<stop stop-color="#7f5748" stop-opacity="1" offset="0.568069" />
+		<stop stop-color="#825a4b" stop-opacity="1" offset="0.585396" />
+		<stop stop-color="#c1946f" stop-opacity="1" offset="0.594059" />
+		<stop stop-color="#e6cdb9" stop-opacity="1" offset="0.751238" />
+		<stop stop-color="#c89b73" stop-opacity="1" offset="0.759901" />
+		<stop stop-color="#5f4137" stop-opacity="1" offset="0.868812" />
+		<stop stop-color="#64554b" stop-opacity="1" offset="0.873762" />
+		<stop stop-color="#6b4b3e" stop-opacity="1" offset="0.946782" />
+		<stop stop-color="#c8966e" stop-opacity="1" offset="1" />
+	</linearGradient>
+</svg>

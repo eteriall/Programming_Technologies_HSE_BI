@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pdData>
+	
+	<pdDataType>Presets</pdDataType>
+	<toolbar_Layers-presets>
+		<version>1</version><ToolDescription>Layers</ToolDescription><ttlPanel:0>True</ttlPanel:0><ttlPanel:2>True</ttlPanel:2><ttlPanel:1>True</ttlPanel:1><ttlPanel:3>True</ttlPanel:3>
+	</toolbar_Layers-presets>
+	<layerpanel_Search-presets>
+		<version>1</version>
+	</layerpanel_Search-presets>
+	<layerpanel_Navigator-presets>
+		<version>1</version>
+	</layerpanel_Navigator-presets>
+	<layerpanel_Colors-presets>
+		<version>1</version><palSelector>&lt;version&gt;1&lt;/version&gt;&lt;palette-filename&gt;&lt;/palette-filename&gt;&lt;palette-group&gt;0&lt;/palette-group&gt;&lt;palette-index&gt;0&lt;/palette-index&gt;</palSelector><clrHistory>&lt;version&gt;1&lt;/version&gt;&lt;pdHistoryCount&gt;25&lt;/pdHistoryCount&gt;&lt;pdHistoryItem:0&gt;0&lt;/pdHistoryItem:0&gt;&lt;pdHistoryItem:1&gt;3416098&lt;/pdHistoryItem:1&gt;&lt;pdHistoryItem:2&gt;3942469&lt;/pdHistoryItem:2&gt;&lt;pdHistoryItem:3&gt;3225958&lt;/pdHistoryItem:3&gt;&lt;pdHistoryItem:4&gt;3888783&lt;/pdHistoryItem:4&gt;&lt;pdHistoryItem:5&gt;2519519&lt;/pdHistoryItem:5&gt;&lt;pdHistoryItem:6&gt;6725849&lt;/pdHistoryItem:6&gt;&lt;pdHistoryItem:7&gt;10142702&lt;/pdHistoryItem:7&gt;&lt;pdHistoryItem:8&gt;3601147&lt;/pdHistoryItem:8&gt;&lt;pdHistoryItem:9&gt;5301657&lt;/pdHistoryItem:9&gt;&lt;pdHistoryItem:10&gt;3194474&lt;/pdHistoryItem:10&gt;&lt;pdHistoryItem:11&gt;7246903&lt;/pdHistoryItem:11&gt;&lt;pdHistoryItem:12&gt;3107147&lt;/pdHistoryItem:12&gt;&lt;pdHistoryItem:13&gt;2378578&lt;/pdHistoryItem:13&gt;&lt;pdHistoryItem:14&gt;3750962&lt;/pdHistoryItem:14&gt;&lt;pdHistoryItem:15&gt;7618367&lt;/pdHistoryItem:15&gt;&lt;pdHistoryItem:16&gt;8544304&lt;/pdHistoryItem:16&gt;&lt;pdHistoryItem:17&gt;14773851&lt;/pdHistoryItem:17&gt;&lt;pdHistoryItem:18&gt;16751459&lt;/pdHistoryItem:18&gt;&lt;pdHistoryItem:19&gt;14994783&lt;/pdHistoryItem:19&gt;&lt;pdHistoryItem:20&gt;16571339&lt;/pdHistoryItem:20&gt;&lt;pdHistoryItem:21&gt;16777215&lt;/pdHistoryItem:21&gt;&lt;pdHistoryItem:22&gt;12037531&lt;/pdHistoryItem:22&gt;&lt;pdHistoryItem:23&gt;8879748&lt;/pdHistoryItem:23&gt;&lt;pdHistoryItem:24&gt;6974057&lt;/pdHistoryItem:24&gt;</clrHistory><clrVariants>16762930</clrVariants><clrWheel>16762930</clrWheel>
+	</layerpanel_Colors-presets>
+	<layerpanel_Layers-presets>
+		<version>1</version><cmdLayerAction:0>False</cmdLayerAction:0><cmdLayerAction:1>False</cmdLayerAction:1><cmdLayerAction:2>False</cmdLayerAction:2><cmdLayerAction:3>False</cmdLayerAction:3><cmdLayerAction:4>False</cmdLayerAction:4><cboBlendMode>0</cboBlendMode><sltLayerOpacity>100</sltLayerOpacity><cboAlphaMode>0</cboAlphaMode>
+	</layerpanel_Layers-presets>
+	<toolbar_Toolbox-presets>
+		<version>1</version><ToolDescription>File</ToolDescription><ttlCategories:0>True</ttlCategories:0><cmdTools:0>True</cmdTools:0><cmdTools:1>False</cmdTools:1><cmdTools:2>False</cmdTools:2><cmdTools:5>False</cmdTools:5><cmdTools:6>False</cmdTools:6><cmdTools:7>False</cmdTools:7><cmdTools:8>False</cmdTools:8><cmdTools:9>False</cmdTools:9><cmdFile:0>False</cmdFile:0><cmdFile:1>False</cmdFile:1><cmdFile:2>False</cmdFile:2><cmdFile:3>False</cmdFile:3><cmdFile:4>False</cmdFile:4><cmdFile:5>False</cmdFile:5><cmdFile:6>False</cmdFile:6><cmdFile:7>False</cmdFile:7><cmdTools:10>False</cmdTools:10><cmdTools:11>False</cmdTools:11><cmdTools:12>False</cmdTools:12><ttlCategories:1>True</ttlCategories:1><ttlCategories:2>True</ttlCategories:2><ttlCategories:3>True</ttlCategories:3><ttlCategories:4>True</ttlCategories:4><ttlCategories:5>True</ttlCategories:5><cmdTools:13>False</cmdTools:13><cmdTools:14>False</cmdTools:14><cmdTools:15>False</cmdTools:15><cmdTools:3>False</cmdTools:3><cmdTools:16>False</cmdTools:16><cmdTools:17>False</cmdTools:17><cmdTools:4>False</cmdTools:4>
+	</toolbar_Toolbox-presets>
+</pdData>

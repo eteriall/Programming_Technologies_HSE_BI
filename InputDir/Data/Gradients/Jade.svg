@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created with PhotoDemon (https://photodemon.org) -->
+<svg>
+	<linearGradient id="Jade" gradientUnits="objectBoundingBox" spreadMethod="pad" >
+		<stop stop-color="#0f1914" stop-opacity="1" offset="0" />
+		<stop stop-color="#2d5028" stop-opacity="1" offset="0.152228" />
+		<stop stop-color="#283c32" stop-opacity="1" offset="0.319307" />
+		<stop stop-color="#4b7d5a" stop-opacity="1" offset="0.424505" />
+		<stop stop-color="#2d503c" stop-opacity="1" offset="0.516089" />
+		<stop stop-color="#dcebd2" stop-opacity="1" offset="0.754951" />
+		<stop stop-color="#50786e" stop-opacity="1" offset="0.814356" />
+		<stop stop-color="#7da56e" stop-opacity="1" offset="0.923267" />
+		<stop stop-color="#0f1e1e" stop-opacity="1" offset="1" />
+	</linearGradient>
+</svg>
